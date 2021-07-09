@@ -8,7 +8,7 @@ def b():
         print()
 
 #another way of printing B:
-
+'''
 for row in range(7):
     for col in range(5):
         if ((col==0 ) ):
@@ -30,6 +30,6 @@ for row in range(7):
         else:
             print(end=" ")
     print()
-
+'''
 if __name__=="__main__":
     b=b()

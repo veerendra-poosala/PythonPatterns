@@ -3,10 +3,10 @@
 
 
 def l():
-    for row in range(7):
+    for row in range(6):
         for col in range(5):
-            if(col==0 or row==6):
-                print("*",end=" ")
+            if(col==0 or row==5):
+                print("*",end="")
             else:
                 print(end=" ")
         print()

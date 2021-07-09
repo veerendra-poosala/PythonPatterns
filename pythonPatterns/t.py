@@ -6,8 +6,8 @@ def t():
             else:
                 print(end=" ")
         print()
-t=t()
+
 
 if __name__=="__main__":
-    t
+    t=t()
 
